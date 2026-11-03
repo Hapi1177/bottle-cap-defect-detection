@@ -42,9 +42,3 @@ pip install -r requirements.txt
 jupyter notebook bottle-cap-detection.ipynb
 ```
 Run All runs the whole notebook, using all three splits, from data loading and the segmentation steps to the full test-set evaluation. It reproduces the results above exactly (checked with OpenCV 5.0, scikit-image 0.26 and scikit-learn 1.9).
-
-## More projects
-- [Multi-class Fraud Type Classification](https://github.com/Hapi1177/fraud-type-classification): end-to-end ML project on 1M transactions
-- [Adult Income Prediction](https://github.com/Hapi1177/adult-income-prediction)
-- [Steel Industry Energy Usage Prediction](https://github.com/Hapi1177/steel-energy-usage-prediction)
-- [AI Tutor with GPT API](https://github.com/Hapi1177/ai-tutor-gpt-api)
